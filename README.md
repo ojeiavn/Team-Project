@@ -5,3 +5,5 @@ Neueda Team Project
 this is made by emma
 
 Hi! This is Doyin. 
+
+Hey- this is Ojei's commit.
